@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Phone Location Tracker</title>
+</head>
+<body>
+    <h1>Phone Live Location Tracker</h1>
+    <button onclick="startTracking()">Start Tracking</button>
+
+    <script>
+        function startTracking() {
+            if (navigator.geolocation) {
+                navigator.geolocation.watchPosition(
+                    position => {
+                        fetch('http://49.37.220.87/update-location', {
+                            method: 'POST',
+                            headers: {'Content-Type': 'application/json'},
+                            body: JSON.stringify({
+                                latitude: position.coords.latitude,
+                                longitude: position.coords.longitude
+                            })
+                        });
+                    },
+                    error => console.error('Error:', error),
+                    { enableHighAccuracy: true }
+                );
+            } else {
+                alert('Geolocation not supported.');
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,1672 @@
+2025-09-09 22:12:44,264 - Fall detected: Person 0
+2025-09-09 22:12:45,092 - Fall detected: Person 0
+2025-09-09 22:12:50,504 - Fall detected: Person 0
+2025-09-09 22:23:19,755 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:23:19,755 - - gpu enabled: False
+2025-09-09 22:23:19,755 - - half precision: False
+2025-09-09 22:23:19,755 - - max batch size: 16
+2025-09-09 22:23:19,755 - - expects BGR: True
+2025-09-09 22:23:19,792 - DeepSort Tracker initialised
+2025-09-09 22:23:19,792 - - max age: 30
+2025-09-09 22:23:19,792 - - appearance threshold: 0.2
+2025-09-09 22:23:19,792 - - nms threshold: OFF
+2025-09-09 22:23:19,792 - - max num of appearance features: None
+2025-09-09 22:23:19,792 - - overriding track class : No
+2025-09-09 22:23:19,792 - - today given : No
+2025-09-09 22:23:19,792 - - in-build embedder : Yes
+2025-09-09 22:23:19,792 - - polygon detections : No
+2025-09-09 22:23:30,771 - Fall detected: Person 0
+2025-09-09 22:23:35,878 - Fall detected: Person 0
+2025-09-09 22:23:36,790 - Fall detected: Person 0
+2025-09-09 22:23:39,565 - Fall detected: Person 0
+2025-09-09 22:23:44,121 - Fall detected: Person 0
+2025-09-09 22:23:46,154 - Fall detected: Person 1
+2025-09-09 22:32:12,706 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:32:12,706 - - gpu enabled: False
+2025-09-09 22:32:12,706 - - half precision: False
+2025-09-09 22:32:12,706 - - max batch size: 16
+2025-09-09 22:32:12,706 - - expects BGR: True
+2025-09-09 22:32:12,739 - DeepSort Tracker initialised
+2025-09-09 22:32:12,739 - - max age: 30
+2025-09-09 22:32:12,739 - - appearance threshold: 0.2
+2025-09-09 22:32:12,739 - - nms threshold: OFF
+2025-09-09 22:32:12,739 - - max num of appearance features: None
+2025-09-09 22:32:12,739 - - overriding track class : No
+2025-09-09 22:32:12,739 - - today given : No
+2025-09-09 22:32:12,739 - - in-build embedder : Yes
+2025-09-09 22:32:12,739 - - polygon detections : No
+2025-09-09 22:33:06,024 - Fall detected: Person 0
+2025-09-09 22:33:06,408 - Fall detected: Person 1
+2025-09-09 14:58:43,036 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:43,103 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:53,118 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:53,849 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:53,913 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:53,981 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:54,043 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:54,121 - \u26a0\ufe0f Fall detected!
+2025-09-09 14:58:59,631 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:04:45,350 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:04:45,420 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:04:46,972 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:04:47,042 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:04:47,122 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:04:54,399 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:03,316 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:03,714 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:03,785 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:03,865 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:31,591 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:33,192 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:33,792 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:33,864 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:33,927 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:34,061 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:34,191 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:34,262 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:34,337 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:34,411 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:05:44,380 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:06:08,075 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:12:17,669 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:12:17,735 - \u26a0\ufe0f Fall detected!
+2025-09-09 15:12:17,802 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,079 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,149 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,149 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,306 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,372 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,501 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,834 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,893 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:58,973 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:59,047 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:59,166 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:59,166 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:59,249 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:59,329 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:02:59,400 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:00,703 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:00,779 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:00,853 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:00,929 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,004 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,004 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,432 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,506 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,572 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,631 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:01,690 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,145 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,224 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,293 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,376 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,449 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,534 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,601 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,684 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,776 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,863 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:23,934 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:51,713 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:51,797 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:51,881 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:51,956 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,031 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,094 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,148 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,234 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,289 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,365 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,423 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,490 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,572 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,648 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,706 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,789 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,864 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,922 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:52,981 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,057 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,124 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,194 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,272 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,345 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,479 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:53,539 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,007 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,083 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,174 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,241 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,316 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,393 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,463 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,539 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,539 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,598 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,598 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,690 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,765 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,839 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,906 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:56,971 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,043 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,101 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,178 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,178 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,248 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,372 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,588 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:57,656 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,171 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,372 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,436 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,503 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,571 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,638 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,714 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,790 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,874 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:58,947 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,022 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,241 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,305 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,375 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,450 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,555 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,622 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,697 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,764 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,823 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,897 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:03:59,959 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,068 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,160 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,238 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,311 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,395 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,479 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,570 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,629 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,688 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,756 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,823 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,891 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:00,966 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,043 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,105 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,188 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,262 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,329 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,414 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,505 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,580 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,644 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,711 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,786 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,868 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:04:01,945 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:03,122 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:08,590 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:14,346 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:14,429 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:15,421 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:15,501 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:15,604 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:16,048 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:16,122 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:16,122 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:08:20,804 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:13:21,474 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:13:21,537 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:13:26,370 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:13:39,430 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:14:13,200 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:14:13,299 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:14:13,382 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:51,021 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:51,021 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:51,090 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:51,090 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:52,055 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:52,115 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:52,198 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:57,328 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:57,411 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:57,487 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:58,063 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:58,146 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:58,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:58,517 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:58,604 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:25:58,680 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:06,965 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:07,042 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:07,042 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:07,314 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:07,322 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:07,390 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:10,581 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:10,655 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:10,730 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:10,796 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:10,886 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:10,954 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,097 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,165 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,232 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,307 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,366 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,425 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,509 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,599 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,660 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,738 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,798 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,884 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:11,938 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,021 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,105 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,180 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,264 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,338 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,480 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,546 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,621 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,696 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,772 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,913 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,913 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:12,913 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:13,489 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:13,559 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:30,923 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:39,468 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:28:39,936 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:19,387 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:19,387 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:19,482 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:19,482 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:19,565 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:19,649 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,323 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,383 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,458 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,517 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,585 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,660 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:20,734 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:21,514 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:21,672 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:21,739 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:21,802 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:21,866 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:21,933 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,025 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,082 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,167 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,241 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,308 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,384 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,451 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,527 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,602 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,670 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,752 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,813 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,895 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:22,970 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,045 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,121 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,195 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,278 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,345 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,429 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,505 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,564 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,624 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,707 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,788 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,862 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:23,937 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,012 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,070 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,163 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,223 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,298 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,372 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,447 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,514 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,593 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,647 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,720 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,795 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,854 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,929 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:24,989 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,072 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,148 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,232 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,323 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,390 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,465 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,540 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,599 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,690 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,765 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,825 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,899 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:25,958 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,033 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,109 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,168 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,251 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,331 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,412 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,470 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,562 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,645 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,737 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,808 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,887 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:26,971 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,048 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,124 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,183 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,266 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,341 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,413 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,483 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,559 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,625 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,693 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,760 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,827 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,902 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:27,980 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,061 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,136 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,213 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,287 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,362 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,446 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,530 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,597 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,664 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,732 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,799 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,881 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:28,941 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,016 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,074 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,149 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,216 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,300 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,392 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,452 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,519 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,613 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,703 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,802 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,879 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:29,966 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,039 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,125 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,204 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,279 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,355 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,439 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,531 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,615 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,697 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,780 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,872 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:30,949 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,018 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,077 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,153 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,221 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,301 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,371 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,430 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:31,516 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,413 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,504 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,596 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,677 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,677 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,762 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,770 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,854 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,930 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:47,930 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,014 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,312 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,396 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,473 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,555 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,639 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,713 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:48,793 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:49,430 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:49,577 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:49,660 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:49,743 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:49,827 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:49,903 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:50,146 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:50,610 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,556 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,556 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,631 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,631 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,723 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,817 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,901 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:52,992 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,060 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,536 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,626 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,704 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,793 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,863 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:53,930 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:54,002 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:54,085 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:36:54,177 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:37:23,530 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:37:23,618 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:37:30,146 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:38:15,570 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:38:15,649 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:38:15,733 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:40:00,554 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:40:00,554 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:40:00,700 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:45,048 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:45,123 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:45,201 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:45,201 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:45,302 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:45,990 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:46,081 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:46,156 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:46,240 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:46,314 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:46,406 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:42:46,488 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:05,476 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,184 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,266 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,342 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,418 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,502 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,578 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,645 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,729 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,803 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,877 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:17,961 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:27,479 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:27,579 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:27,668 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:27,764 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:27,858 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:27,939 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,028 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,114 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,201 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,281 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,373 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,457 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,542 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,635 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,635 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,719 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,810 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,894 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,894 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,985 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:28,985 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,080 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,080 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,175 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,175 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,275 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,362 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,362 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,445 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,445 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,536 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,536 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,617 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:44:29,716 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:41,965 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,048 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,122 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,206 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,210 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,289 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,289 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,380 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,380 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,463 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,547 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,631 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:42,706 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,403 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,488 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,566 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,650 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,726 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,799 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,880 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:43,964 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,040 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,117 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,198 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,274 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,348 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,432 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,509 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,584 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,651 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,742 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,817 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,884 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:44,968 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,042 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,117 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,200 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,269 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,343 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,427 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,512 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,578 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,653 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,724 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,798 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,882 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:45,957 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,041 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,124 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,191 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,275 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,341 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,425 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,510 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,593 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,685 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,761 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,837 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,913 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:46,990 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,065 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,140 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,213 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,288 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,368 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,447 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,531 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,606 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,684 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,768 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,848 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:47,926 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,010 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,081 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,159 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,247 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,328 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,403 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,479 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,547 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,638 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,720 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,795 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,879 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:48,963 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,047 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,123 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,198 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,273 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,348 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,431 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,514 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,597 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,673 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,757 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,841 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,921 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:49,998 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,081 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,155 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,312 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,396 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,481 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,555 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,641 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,730 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,797 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,873 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:50,949 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,025 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,083 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,165 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,233 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,315 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,390 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,464 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,541 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,616 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,691 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,766 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,841 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:51,933 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:52,001 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:52,087 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:46:52,168 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:27,362 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:27,509 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:27,775 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:28,303 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:28,392 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:28,470 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:28,554 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:28,662 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:47:48,123 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:15,780 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:15,864 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:15,951 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:15,951 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,044 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,044 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,127 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,203 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,278 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,354 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,429 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,496 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:49:16,564 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:50:52,351 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:50:52,435 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:50:52,984 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:50:53,059 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:51:06,731 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,419 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,511 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,602 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,706 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,807 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,896 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:19,981 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,073 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,162 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,249 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,346 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,435 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,524 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,612 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,702 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,788 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,884 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:20,971 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,055 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,155 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,282 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,395 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,485 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,579 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,662 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,746 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,830 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:21,921 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,005 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,087 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,170 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,272 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,368 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,453 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,547 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,637 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,722 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,913 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:22,997 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,088 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,170 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,253 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,345 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,430 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,517 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,607 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,688 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,788 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,864 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:23,963 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,186 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,278 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,369 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,452 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,537 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,632 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,714 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,802 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,891 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:24,971 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,071 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,154 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,329 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,417 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,511 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,599 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,690 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,778 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,878 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:25,965 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,056 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,139 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,515 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,608 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,781 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,875 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:26,961 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,046 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,137 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,230 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,313 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,411 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,689 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,773 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,869 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:27,948 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:28,047 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:53:28,137 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:41,804 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:42,046 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,326 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,413 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,497 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,580 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,655 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,743 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,813 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,887 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:45,969 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,059 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,126 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,202 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,285 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,352 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,434 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,529 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,604 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,679 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,760 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,836 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,912 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:46,995 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,069 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,160 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,243 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,318 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,385 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,461 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,544 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,622 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,701 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,792 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,874 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:47,939 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,023 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,089 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,169 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,260 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,327 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,402 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,477 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,560 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,646 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,718 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,794 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:48,953 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:49,106 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:49,191 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:49,264 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:49,331 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:49,415 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:49,649 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,004 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,079 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,152 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,236 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,302 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,377 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,459 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,543 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,651 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,733 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,833 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:51,926 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,010 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,103 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,179 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,276 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,356 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,433 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,522 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,589 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,672 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,747 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,821 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,904 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:52,979 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,046 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,134 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,210 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,284 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,360 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,436 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,519 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,593 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,668 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,735 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,820 - \u26a0\ufe0f Fall detected!
+2025-09-09 16:57:53,886 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:58,855 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:58,920 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:58,988 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,080 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,148 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,223 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,298 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,372 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,440 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,498 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,573 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,648 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,714 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,798 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,880 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:04:59,956 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:06:28,801 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:06:29,140 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:37,484 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:37,569 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:37,650 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,285 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,636 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,702 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,770 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,844 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,919 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:39,987 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,062 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,146 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,217 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,289 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,365 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,440 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,517 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,583 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,672 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,747 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,823 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,890 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:40,966 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,050 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,132 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,207 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,283 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,367 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,443 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,519 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,584 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,668 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,752 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,829 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,904 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:41,967 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,052 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,137 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,197 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,275 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,350 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,425 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,500 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,576 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,651 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,726 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,786 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,869 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:42,944 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,034 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,109 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,183 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,272 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,339 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,408 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,482 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,565 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,640 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,716 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,774 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,851 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:43,919 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:08:44,068 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:13:56,975 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:22,740 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:23,938 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:24,021 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:24,187 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:27,670 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:27,755 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:27,846 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:27,846 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:27,943 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,028 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,105 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,189 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,271 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,361 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,361 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,361 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,462 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,561 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,643 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,643 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,728 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,728 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,826 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:28,917 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,087 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,170 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,261 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,420 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,504 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,618 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,618 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,708 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,790 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,871 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:29,954 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:30,137 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:30,320 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:30,504 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:30,504 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:30,610 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:32,636 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:32,737 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:32,737 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:32,842 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:33,103 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:14:33,188 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,370 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,443 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,526 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,600 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,676 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,751 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,826 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,908 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:55,982 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,047 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,117 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,175 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,267 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,343 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,426 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,510 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,594 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:18:56,670 - \u26a0\ufe0f Fall detected!
+2025-09-09 17:21:57,802 - Fall detected: Person 0
+2025-09-09 17:22:01,520 - Fall detected: Person 0
+2025-09-09 17:22:03,253 - Fall detected: Person 0
+2025-09-09 17:22:04,463 - Fall detected: Person 1
+2025-09-09 18:48:45,458 - Fall detected: Person 0
+2025-09-09 18:48:46,916 - Fall detected: Person 1
+2025-09-09 18:48:58,926 - Fall detected: Person 0
+2025-09-09 18:49:02,973 - Fall detected: Person 0
+2025-09-09 18:49:04,068 - Fall detected: Person 0
+2025-09-09 18:49:08,758 - Fall detected: Person 0
+2025-09-09 18:49:09,415 - Fall detected: Person 0
+2025-09-09 18:49:10,437 - Fall detected: Person 0
+2025-09-09 18:49:35,920 - Fall detected: Person 0
+2025-09-09 20:20:29,571 - Fall detected: Person 0
+2025-09-09 20:20:29,922 - Fall detected: Person 1
+2025-09-09 20:20:32,676 - Fall detected: Person 0
+2025-09-09 20:20:33,070 - Fall detected: Person 0
+2025-09-09 20:33:24,797 - Fall detected: Person 0
+2025-09-09 20:33:25,052 - Fall detected: Person 0
+2025-09-09 20:33:26,770 - Fall detected: Person 0
+2025-09-09 20:34:37,553 - Fall detected: Person 0
+2025-09-09 20:34:46,433 - Fall detected: Person 0
+2025-09-09 20:34:46,505 - Fall detected: Person 1
+2025-09-09 20:47:23,858 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 20:47:23,858 - - gpu enabled: False
+2025-09-09 20:47:23,858 - - half precision: False
+2025-09-09 20:47:23,858 - - max batch size: 16
+2025-09-09 20:47:23,858 - - expects BGR: True
+2025-09-09 20:47:23,890 - DeepSort Tracker initialised
+2025-09-09 20:47:23,890 - - max age: 30
+2025-09-09 20:47:23,890 - - appearance threshold: 0.2
+2025-09-09 20:47:23,890 - - nms threshold: OFF
+2025-09-09 20:47:23,890 - - max num of appearance features: None
+2025-09-09 20:47:23,890 - - overriding track class : No
+2025-09-09 20:47:23,890 - - today given : No
+2025-09-09 20:47:23,890 - - in-build embedder : Yes
+2025-09-09 20:47:23,890 - - polygon detections : No
+2025-09-09 20:49:25,756 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 20:49:25,756 - - gpu enabled: False
+2025-09-09 20:49:25,756 - - half precision: False
+2025-09-09 20:49:25,756 - - max batch size: 16
+2025-09-09 20:49:25,756 - - expects BGR: True
+2025-09-09 20:49:25,806 - DeepSort Tracker initialised
+2025-09-09 20:49:25,806 - - max age: 30
+2025-09-09 20:49:25,806 - - appearance threshold: 0.2
+2025-09-09 20:49:25,806 - - nms threshold: OFF
+2025-09-09 20:49:25,806 - - max num of appearance features: None
+2025-09-09 20:49:25,806 - - overriding track class : No
+2025-09-09 20:49:25,806 - - today given : No
+2025-09-09 20:49:25,806 - - in-build embedder : Yes
+2025-09-09 20:49:25,806 - - polygon detections : No
+2025-09-09 20:51:14,140 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 20:51:14,140 - - gpu enabled: False
+2025-09-09 20:51:14,141 - - half precision: False
+2025-09-09 20:51:14,141 - - max batch size: 16
+2025-09-09 20:51:14,141 - - expects BGR: True
+2025-09-09 20:51:14,175 - DeepSort Tracker initialised
+2025-09-09 20:51:14,175 - - max age: 30
+2025-09-09 20:51:14,175 - - appearance threshold: 0.2
+2025-09-09 20:51:14,175 - - nms threshold: OFF
+2025-09-09 20:51:14,175 - - max num of appearance features: None
+2025-09-09 20:51:14,175 - - overriding track class : No
+2025-09-09 20:51:14,175 - - today given : No
+2025-09-09 20:51:14,175 - - in-build embedder : Yes
+2025-09-09 20:51:14,175 - - polygon detections : No
+2025-09-09 20:51:24,009 - Fall detected: Person 0
+2025-09-09 20:51:47,387 - Fall detected: Person 0
+2025-09-09 20:51:57,266 - Fall detected: Person 1
+2025-09-09 20:51:58,119 - Fall detected: Person 0
+2025-09-09 20:54:51,663 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 20:54:51,663 - - gpu enabled: False
+2025-09-09 20:54:51,663 - - half precision: False
+2025-09-09 20:54:51,663 - - max batch size: 16
+2025-09-09 20:54:51,663 - - expects BGR: True
+2025-09-09 20:54:51,696 - DeepSort Tracker initialised
+2025-09-09 20:54:51,696 - - max age: 30
+2025-09-09 20:54:51,696 - - appearance threshold: 0.2
+2025-09-09 20:54:51,696 - - nms threshold: OFF
+2025-09-09 20:54:51,696 - - max num of appearance features: None
+2025-09-09 20:54:51,696 - - overriding track class : No
+2025-09-09 20:54:51,696 - - today given : No
+2025-09-09 20:54:51,696 - - in-build embedder : Yes
+2025-09-09 20:54:51,696 - - polygon detections : No
+2025-09-09 20:55:10,769 - Fall detected: Person 0
+2025-09-09 20:55:12,619 - Fall detected: Person 1
+2025-09-09 20:55:15,374 - Fall detected: Person 0
+2025-09-09 20:55:21,306 - Fall detected: Person 0
+2025-09-09 20:58:03,207 - Fall detected: Person 1
+2025-09-09 20:58:03,954 - Fall detected: Person 0
+2025-09-09 20:58:04,970 - Fall detected: Person 1
+2025-09-09 20:58:05,203 - Fall detected: Person 0
+2025-09-09 20:59:11,020 - Fall detected: Person 0
+2025-09-09 20:59:15,159 - Fall detected: Person 0
+2025-09-09 21:02:47,942 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:02:47,942 - - gpu enabled: False
+2025-09-09 21:02:47,942 - - half precision: False
+2025-09-09 21:02:47,942 - - max batch size: 16
+2025-09-09 21:02:47,942 - - expects BGR: True
+2025-09-09 21:02:47,974 - DeepSort Tracker initialised
+2025-09-09 21:02:47,975 - - max age: 30
+2025-09-09 21:02:47,975 - - appearance threshold: 0.2
+2025-09-09 21:02:47,975 - - nms threshold: OFF
+2025-09-09 21:02:47,975 - - max num of appearance features: None
+2025-09-09 21:02:47,975 - - overriding track class : No
+2025-09-09 21:02:47,975 - - today given : No
+2025-09-09 21:02:47,975 - - in-build embedder : Yes
+2025-09-09 21:02:47,975 - - polygon detections : No
+2025-09-09 21:02:56,910 - Fall detected: Person 0
+2025-09-09 21:04:50,616 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:04:50,618 - - gpu enabled: False
+2025-09-09 21:04:50,618 - - half precision: False
+2025-09-09 21:04:50,618 - - max batch size: 16
+2025-09-09 21:04:50,618 - - expects BGR: True
+2025-09-09 21:04:50,644 - DeepSort Tracker initialised
+2025-09-09 21:04:50,644 - - max age: 30
+2025-09-09 21:04:50,644 - - appearance threshold: 0.2
+2025-09-09 21:04:50,644 - - nms threshold: OFF
+2025-09-09 21:04:50,644 - - max num of appearance features: None
+2025-09-09 21:04:50,644 - - overriding track class : No
+2025-09-09 21:04:50,644 - - today given : No
+2025-09-09 21:04:50,644 - - in-build embedder : Yes
+2025-09-09 21:04:50,644 - - polygon detections : No
+2025-09-09 21:04:55,638 - Fall detected: Person 0
+2025-09-09 21:16:28,442 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:16:28,442 - - gpu enabled: False
+2025-09-09 21:16:28,442 - - half precision: False
+2025-09-09 21:16:28,442 - - max batch size: 16
+2025-09-09 21:16:28,442 - - expects BGR: True
+2025-09-09 21:16:28,474 - DeepSort Tracker initialised
+2025-09-09 21:16:28,474 - - max age: 30
+2025-09-09 21:16:28,474 - - appearance threshold: 0.2
+2025-09-09 21:16:28,474 - - nms threshold: OFF
+2025-09-09 21:16:28,474 - - max num of appearance features: None
+2025-09-09 21:16:28,474 - - overriding track class : No
+2025-09-09 21:16:28,474 - - today given : No
+2025-09-09 21:16:28,474 - - in-build embedder : Yes
+2025-09-09 21:16:28,474 - - polygon detections : No
+2025-09-09 21:21:46,020 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:21:46,020 - - gpu enabled: False
+2025-09-09 21:21:46,020 - - half precision: False
+2025-09-09 21:21:46,020 - - max batch size: 16
+2025-09-09 21:21:46,020 - - expects BGR: True
+2025-09-09 21:21:46,064 - DeepSort Tracker initialised
+2025-09-09 21:21:46,064 - - max age: 30
+2025-09-09 21:21:46,064 - - appearance threshold: 0.2
+2025-09-09 21:21:46,064 - - nms threshold: OFF
+2025-09-09 21:21:46,064 - - max num of appearance features: None
+2025-09-09 21:21:46,064 - - overriding track class : No
+2025-09-09 21:21:46,064 - - today given : No
+2025-09-09 21:21:46,064 - - in-build embedder : Yes
+2025-09-09 21:21:46,064 - - polygon detections : No
+2025-09-09 21:23:35,363 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:23:35,363 - - gpu enabled: False
+2025-09-09 21:23:35,363 - - half precision: False
+2025-09-09 21:23:35,363 - - max batch size: 16
+2025-09-09 21:23:35,363 - - expects BGR: True
+2025-09-09 21:23:35,394 - DeepSort Tracker initialised
+2025-09-09 21:23:35,394 - - max age: 30
+2025-09-09 21:23:35,394 - - appearance threshold: 0.2
+2025-09-09 21:23:35,394 - - nms threshold: OFF
+2025-09-09 21:23:35,394 - - max num of appearance features: None
+2025-09-09 21:23:35,394 - - overriding track class : No
+2025-09-09 21:23:35,394 - - today given : No
+2025-09-09 21:23:35,394 - - in-build embedder : Yes
+2025-09-09 21:23:35,394 - - polygon detections : No
+2025-09-09 21:24:01,795 - Fall detected: Person 0
+2025-09-09 21:24:02,082 - Fall detected: Person 1
+2025-09-09 21:24:02,449 - Fall detected: Person 0
+2025-09-09 21:24:06,362 - Fall detected: Person 2
+2025-09-09 21:24:14,406 - Fall detected: Person 0
+2025-09-09 21:24:54,781 - Fall detected: Person 0
+2025-09-09 21:26:15,185 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:26:15,185 - - gpu enabled: False
+2025-09-09 21:26:15,185 - - half precision: False
+2025-09-09 21:26:15,185 - - max batch size: 16
+2025-09-09 21:26:15,185 - - expects BGR: True
+2025-09-09 21:26:15,222 - DeepSort Tracker initialised
+2025-09-09 21:26:15,222 - - max age: 30
+2025-09-09 21:26:15,222 - - appearance threshold: 0.2
+2025-09-09 21:26:15,222 - - nms threshold: OFF
+2025-09-09 21:26:15,222 - - max num of appearance features: None
+2025-09-09 21:26:15,222 - - overriding track class : No
+2025-09-09 21:26:15,222 - - today given : No
+2025-09-09 21:26:15,222 - - in-build embedder : Yes
+2025-09-09 21:26:15,222 - - polygon detections : No
+2025-09-09 21:26:30,459 - Fall detected: Person 0
+2025-09-09 21:26:55,434 - Fall detected: Person 0
+2025-09-09 21:26:56,425 - Fall detected: Person 0
+2025-09-09 21:27:11,903 - Fall detected: Person 1
+2025-09-09 21:27:35,016 - Fall detected: Person 0
+2025-09-09 21:27:44,673 - Fall detected: Person 0
+2025-09-09 21:27:51,585 - Fall detected: Person 0
+2025-09-09 21:27:55,646 - Fall detected: Person 0
+2025-09-09 21:27:56,914 - Fall detected: Person 1
+2025-09-09 21:28:57,041 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:28:57,041 - - gpu enabled: False
+2025-09-09 21:28:57,041 - - half precision: False
+2025-09-09 21:28:57,041 - - max batch size: 16
+2025-09-09 21:28:57,041 - - expects BGR: True
+2025-09-09 21:28:57,073 - DeepSort Tracker initialised
+2025-09-09 21:28:57,073 - - max age: 30
+2025-09-09 21:28:57,073 - - appearance threshold: 0.2
+2025-09-09 21:28:57,073 - - nms threshold: OFF
+2025-09-09 21:28:57,073 - - max num of appearance features: None
+2025-09-09 21:28:57,073 - - overriding track class : No
+2025-09-09 21:28:57,073 - - today given : No
+2025-09-09 21:28:57,073 - - in-build embedder : Yes
+2025-09-09 21:28:57,073 - - polygon detections : No
+2025-09-09 21:29:40,767 - Fall detected: Person 0
+2025-09-09 21:31:11,051 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:31:11,051 - - gpu enabled: False
+2025-09-09 21:31:11,051 - - half precision: False
+2025-09-09 21:31:11,051 - - max batch size: 16
+2025-09-09 21:31:11,051 - - expects BGR: True
+2025-09-09 21:31:11,081 - DeepSort Tracker initialised
+2025-09-09 21:31:11,081 - - max age: 30
+2025-09-09 21:31:11,081 - - appearance threshold: 0.2
+2025-09-09 21:31:11,081 - - nms threshold: OFF
+2025-09-09 21:31:11,081 - - max num of appearance features: None
+2025-09-09 21:31:11,081 - - overriding track class : No
+2025-09-09 21:31:11,081 - - today given : No
+2025-09-09 21:31:11,081 - - in-build embedder : Yes
+2025-09-09 21:31:11,081 - - polygon detections : No
+2025-09-09 21:32:04,559 - Fall detected: Person 2
+2025-09-09 21:32:04,584 - Fall detected: Person 3
+2025-09-09 21:32:11,207 - Fall detected: Person 4
+2025-09-09 21:32:12,151 - Fall detected: Person 2
+2025-09-09 21:32:32,562 - Fall detected: Person 6
+2025-09-09 21:32:34,443 - Fall detected: Person 0
+2025-09-09 21:33:04,441 - Fall detected: Person 0
+2025-09-09 21:33:04,955 - Fall detected: Person 0
+2025-09-09 21:33:11,162 - Fall detected: Person 3
+2025-09-09 21:33:39,486 - Fall detected: Person 2
+2025-09-09 21:34:02,411 - Fall detected: Person 0
+2025-09-09 21:51:22,085 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 21:51:22,085 - - gpu enabled: False
+2025-09-09 21:51:22,085 - - half precision: False
+2025-09-09 21:51:22,085 - - max batch size: 16
+2025-09-09 21:51:22,085 - - expects BGR: True
+2025-09-09 21:51:22,117 - DeepSort Tracker initialised
+2025-09-09 21:51:22,117 - - max age: 30
+2025-09-09 21:51:22,117 - - appearance threshold: 0.2
+2025-09-09 21:51:22,117 - - nms threshold: OFF
+2025-09-09 21:51:22,117 - - max num of appearance features: None
+2025-09-09 21:51:22,117 - - overriding track class : No
+2025-09-09 21:51:22,117 - - today given : No
+2025-09-09 21:51:22,117 - - in-build embedder : Yes
+2025-09-09 21:51:22,117 - - polygon detections : No
+2025-09-09 21:51:59,316 - Fall detected: Person 0
+2025-09-09 21:52:03,785 - Fall detected: Person 1
+2025-09-09 21:52:05,672 - Fall detected: Person 2
+2025-09-09 21:52:49,383 - Fall detected: Person 1
+2025-09-09 21:52:50,069 - Fall detected: Person 0
+2025-09-09 21:52:50,412 - Fall detected: Person 1
+2025-09-09 21:52:51,532 - Fall detected: Person 1
+2025-09-09 21:52:57,849 - Fall detected: Person 1
+2025-09-09 21:53:01,675 - Fall detected: Person 0
+2025-09-09 21:53:14,512 - Fall detected: Person 0
+2025-09-09 22:07:33,112 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:07:33,112 - - gpu enabled: False
+2025-09-09 22:07:33,112 - - half precision: False
+2025-09-09 22:07:33,112 - - max batch size: 16
+2025-09-09 22:07:33,112 - - expects BGR: True
+2025-09-09 22:07:33,149 - DeepSort Tracker initialised
+2025-09-09 22:07:33,149 - - max age: 30
+2025-09-09 22:07:33,149 - - appearance threshold: 0.2
+2025-09-09 22:07:33,149 - - nms threshold: OFF
+2025-09-09 22:07:33,149 - - max num of appearance features: None
+2025-09-09 22:07:33,149 - - overriding track class : No
+2025-09-09 22:07:33,149 - - today given : No
+2025-09-09 22:07:33,149 - - in-build embedder : Yes
+2025-09-09 22:07:33,149 - - polygon detections : No
+2025-09-09 22:07:56,145 - Fall detected: Person 0
+2025-09-09 22:08:07,003 - Fall detected: Person 0
+2025-09-09 22:08:15,683 - Fall detected: Person 0
+2025-09-09 22:08:21,363 - Fall detected: Person 0
+2025-09-09 22:10:57,820 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:10:57,820 - - gpu enabled: False
+2025-09-09 22:10:57,820 - - half precision: False
+2025-09-09 22:10:57,820 - - max batch size: 16
+2025-09-09 22:10:57,820 - - expects BGR: True
+2025-09-09 22:10:57,851 - DeepSort Tracker initialised
+2025-09-09 22:10:57,851 - - max age: 30
+2025-09-09 22:10:57,851 - - appearance threshold: 0.2
+2025-09-09 22:10:57,851 - - nms threshold: OFF
+2025-09-09 22:10:57,851 - - max num of appearance features: None
+2025-09-09 22:10:57,851 - - overriding track class : No
+2025-09-09 22:10:57,851 - - today given : No
+2025-09-09 22:10:57,851 - - in-build embedder : Yes
+2025-09-09 22:10:57,851 - - polygon detections : No
+2025-09-09 22:11:09,670 - Fall detected: Person 0
+2025-09-09 22:11:17,170 - Fall detected: Person 0
+2025-09-09 22:12:34,145 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:12:34,145 - - gpu enabled: False
+2025-09-09 22:12:34,145 - - half precision: False
+2025-09-09 22:12:34,145 - - max batch size: 16
+2025-09-09 22:12:34,145 - - expects BGR: True
+2025-09-09 22:12:34,160 - DeepSort Tracker initialised
+2025-09-09 22:12:34,160 - - max age: 30
+2025-09-09 22:12:34,160 - - appearance threshold: 0.2
+2025-09-09 22:12:34,160 - - nms threshold: OFF
+2025-09-09 22:12:34,160 - - max num of appearance features: None
+2025-09-09 22:12:34,160 - - overriding track class : No
+2025-09-09 22:12:34,160 - - today given : No
+2025-09-09 22:12:34,176 - - in-build embedder : Yes
+2025-09-09 22:12:34,176 - - polygon detections : No
+2025-09-09 22:12:44,264 - Fall detected: Person 0
+2025-09-09 22:12:45,092 - Fall detected: Person 0
+2025-09-09 22:12:50,504 - Fall detected: Person 0
+2025-09-09 22:23:19,755 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:23:19,755 - - gpu enabled: False
+2025-09-09 22:23:19,755 - - half precision: False
+2025-09-09 22:23:19,755 - - max batch size: 16
+2025-09-09 22:23:19,755 - - expects BGR: True
+2025-09-09 22:23:19,792 - DeepSort Tracker initialised
+2025-09-09 22:23:19,792 - - max age: 30
+2025-09-09 22:23:19,792 - - appearance threshold: 0.2
+2025-09-09 22:23:19,792 - - nms threshold: OFF
+2025-09-09 22:23:19,792 - - max num of appearance features: None
+2025-09-09 22:23:19,792 - - overriding track class : No
+2025-09-09 22:23:19,792 - - today given : No
+2025-09-09 22:23:19,792 - - in-build embedder : Yes
+2025-09-09 22:23:19,792 - - polygon detections : No
+2025-09-09 22:23:30,771 - Fall detected: Person 0
+2025-09-09 22:23:35,878 - Fall detected: Person 0
+2025-09-09 22:23:36,790 - Fall detected: Person 0
+2025-09-09 22:23:39,565 - Fall detected: Person 0
+2025-09-09 22:23:44,121 - Fall detected: Person 0
+2025-09-09 22:23:46,154 - Fall detected: Person 1
+2025-09-09 22:32:12,706 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 22:32:12,706 - - gpu enabled: False
+2025-09-09 22:32:12,706 - - half precision: False
+2025-09-09 22:32:12,706 - - max batch size: 16
+2025-09-09 22:32:12,706 - - expects BGR: True
+2025-09-09 22:32:12,739 - DeepSort Tracker initialised
+2025-09-09 22:32:12,739 - - max age: 30
+2025-09-09 22:32:12,739 - - appearance threshold: 0.2
+2025-09-09 22:32:12,739 - - nms threshold: OFF
+2025-09-09 22:32:12,739 - - max num of appearance features: None
+2025-09-09 22:32:12,739 - - overriding track class : No
+2025-09-09 22:32:12,739 - - today given : No
+2025-09-09 22:32:12,739 - - in-build embedder : Yes
+2025-09-09 22:32:12,739 - - polygon detections : No
+2025-09-09 22:33:06,024 - Fall detected: Person 0
+2025-09-09 22:33:06,408 - Fall detected: Person 1
+2025-09-09 23:40:27,539 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 23:40:27,539 - - gpu enabled: False
+2025-09-09 23:40:27,555 - - half precision: False
+2025-09-09 23:40:27,555 - - max batch size: 16
+2025-09-09 23:40:27,555 - - expects BGR: True
+2025-09-09 23:40:27,602 - DeepSort Tracker initialised
+2025-09-09 23:40:27,602 - - max age: 30
+2025-09-09 23:40:27,602 - - appearance threshold: 0.2
+2025-09-09 23:40:27,602 - - nms threshold: OFF
+2025-09-09 23:40:27,602 - - max num of appearance features: None
+2025-09-09 23:40:27,602 - - overriding track class : No
+2025-09-09 23:40:27,602 - - today given : No
+2025-09-09 23:40:27,602 - - in-build embedder : Yes
+2025-09-09 23:40:27,602 - - polygon detections : No
+2025-09-09 23:40:29,119 - Fall detected: Person 0
+2025-09-09 23:40:36,954 - Fall detected: Person 0
+2025-09-09 23:40:55,557 - Fall detected: Person 0
+2025-09-09 23:41:02,536 - Fall detected: Person 0
+2025-09-09 23:41:11,508 - Fall detected: Person 0
+2025-09-09 23:41:20,579 - Fall detected: Person 0
+2025-09-09 23:41:28,245 - Fall detected: Person 0
+2025-09-09 23:46:04,709 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 23:46:04,709 - - gpu enabled: False
+2025-09-09 23:46:04,709 - - half precision: False
+2025-09-09 23:46:04,709 - - max batch size: 16
+2025-09-09 23:46:04,709 - - expects BGR: True
+2025-09-09 23:46:04,772 - DeepSort Tracker initialised
+2025-09-09 23:46:04,772 - - max age: 30
+2025-09-09 23:46:04,772 - - appearance threshold: 0.2
+2025-09-09 23:46:04,772 - - nms threshold: OFF
+2025-09-09 23:46:04,772 - - max num of appearance features: None
+2025-09-09 23:46:04,772 - - overriding track class : No
+2025-09-09 23:46:04,772 - - today given : No
+2025-09-09 23:46:04,772 - - in-build embedder : Yes
+2025-09-09 23:46:04,772 - - polygon detections : No
+2025-09-09 23:46:20,712 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 23:46:20,714 - - gpu enabled: False
+2025-09-09 23:46:20,714 - - half precision: False
+2025-09-09 23:46:20,714 - - max batch size: 16
+2025-09-09 23:46:20,714 - - expects BGR: True
+2025-09-09 23:46:20,756 - DeepSort Tracker initialised
+2025-09-09 23:46:20,756 - - max age: 30
+2025-09-09 23:46:20,756 - - appearance threshold: 0.2
+2025-09-09 23:46:20,756 - - nms threshold: OFF
+2025-09-09 23:46:20,756 - - max num of appearance features: None
+2025-09-09 23:46:20,756 - - overriding track class : No
+2025-09-09 23:46:20,756 - - today given : No
+2025-09-09 23:46:20,756 - - in-build embedder : Yes
+2025-09-09 23:46:20,756 - - polygon detections : No
+2025-09-09 23:46:22,148 - Fall detected: Person 0
+2025-09-09 23:46:34,728 - Fall detected: Person 0
+2025-09-09 23:56:19,351 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-09 23:56:19,351 - - gpu enabled: False
+2025-09-09 23:56:19,351 - - half precision: False
+2025-09-09 23:56:19,351 - - max batch size: 16
+2025-09-09 23:56:19,351 - - expects BGR: True
+2025-09-09 23:56:19,393 - DeepSort Tracker initialised
+2025-09-09 23:56:19,395 - - max age: 30
+2025-09-09 23:56:19,395 - - appearance threshold: 0.2
+2025-09-09 23:56:19,395 - - nms threshold: OFF
+2025-09-09 23:56:19,395 - - max num of appearance features: None
+2025-09-09 23:56:19,395 - - overriding track class : No
+2025-09-09 23:56:19,395 - - today given : No
+2025-09-09 23:56:19,395 - - in-build embedder : Yes
+2025-09-09 23:56:19,395 - - polygon detections : No
+2025-09-09 23:56:30,552 - Fall detected: Person 0
+2025-09-09 23:56:37,489 - Fall detected: Person 0
+2025-09-10 00:00:01,136 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 00:00:01,136 - - gpu enabled: False
+2025-09-10 00:00:01,136 - - half precision: False
+2025-09-10 00:00:01,136 - - max batch size: 16
+2025-09-10 00:00:01,136 - - expects BGR: True
+2025-09-10 00:00:01,179 - DeepSort Tracker initialised
+2025-09-10 00:00:01,179 - - max age: 30
+2025-09-10 00:00:01,179 - - appearance threshold: 0.2
+2025-09-10 00:00:01,179 - - nms threshold: OFF
+2025-09-10 00:00:01,179 - - max num of appearance features: None
+2025-09-10 00:00:01,179 - - overriding track class : No
+2025-09-10 00:00:01,179 - - today given : No
+2025-09-10 00:00:01,179 - - in-build embedder : Yes
+2025-09-10 00:00:01,179 - - polygon detections : No
+2025-09-10 00:00:15,254 - Fall detected: Person 0
+2025-09-10 00:08:45,419 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 00:08:45,419 - - gpu enabled: False
+2025-09-10 00:08:45,419 - - half precision: False
+2025-09-10 00:08:45,419 - - max batch size: 16
+2025-09-10 00:08:45,419 - - expects BGR: True
+2025-09-10 00:08:45,463 - DeepSort Tracker initialised
+2025-09-10 00:08:45,463 - - max age: 30
+2025-09-10 00:08:45,463 - - appearance threshold: 0.2
+2025-09-10 00:08:45,463 - - nms threshold: OFF
+2025-09-10 00:08:45,463 - - max num of appearance features: None
+2025-09-10 00:08:45,463 - - overriding track class : No
+2025-09-10 00:08:45,463 - - today given : No
+2025-09-10 00:08:45,463 - - in-build embedder : Yes
+2025-09-10 00:08:45,463 - - polygon detections : No
+2025-09-10 00:08:51,704 - Fall detected: Person 0
+2025-09-10 00:08:55,991 - Fall detected: Person 0
+2025-09-10 00:08:56,897 - Fall detected: Person 0
+2025-09-10 00:09:00,390 - Fall detected: Person 0
+2025-09-10 10:05:23,357 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 10:05:23,357 - - gpu enabled: False
+2025-09-10 10:05:23,357 - - half precision: False
+2025-09-10 10:05:23,357 - - max batch size: 16
+2025-09-10 10:05:23,357 - - expects BGR: True
+2025-09-10 10:05:23,457 - DeepSort Tracker initialised
+2025-09-10 10:05:23,457 - - max age: 30
+2025-09-10 10:05:23,457 - - appearance threshold: 0.2
+2025-09-10 10:05:23,457 - - nms threshold: OFF
+2025-09-10 10:05:23,457 - - max num of appearance features: None
+2025-09-10 10:05:23,457 - - overriding track class : No
+2025-09-10 10:05:23,457 - - today given : No
+2025-09-10 10:05:23,457 - - in-build embedder : Yes
+2025-09-10 10:05:23,457 - - polygon detections : No
+2025-09-10 13:20:12,691 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 13:20:12,691 - - gpu enabled: False
+2025-09-10 13:20:12,691 - - half precision: False
+2025-09-10 13:20:12,691 - - max batch size: 16
+2025-09-10 13:20:12,691 - - expects BGR: True
+2025-09-10 13:20:12,739 - DeepSort Tracker initialised
+2025-09-10 13:20:12,739 - - max age: 30
+2025-09-10 13:20:12,739 - - appearance threshold: 0.2
+2025-09-10 13:20:12,739 - - nms threshold: OFF
+2025-09-10 13:20:12,739 - - max num of appearance features: None
+2025-09-10 13:20:12,739 - - overriding track class : No
+2025-09-10 13:20:12,739 - - today given : No
+2025-09-10 13:20:12,739 - - in-build embedder : Yes
+2025-09-10 13:20:12,739 - - polygon detections : No
+2025-09-10 13:24:39,152 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 13:24:39,152 - - gpu enabled: False
+2025-09-10 13:24:39,152 - - half precision: False
+2025-09-10 13:24:39,152 - - max batch size: 16
+2025-09-10 13:24:39,152 - - expects BGR: True
+2025-09-10 13:24:39,183 - DeepSort Tracker initialised
+2025-09-10 13:24:39,183 - - max age: 30
+2025-09-10 13:24:39,183 - - appearance threshold: 0.2
+2025-09-10 13:24:39,183 - - nms threshold: OFF
+2025-09-10 13:24:39,183 - - max num of appearance features: None
+2025-09-10 13:24:39,183 - - overriding track class : No
+2025-09-10 13:24:39,183 - - today given : No
+2025-09-10 13:24:39,183 - - in-build embedder : Yes
+2025-09-10 13:24:39,183 - - polygon detections : No
+2025-09-10 13:25:07,995 - Fall detected: Person 2
+2025-09-10 13:34:53,914 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 13:34:53,914 - - gpu enabled: False
+2025-09-10 13:34:53,914 - - half precision: False
+2025-09-10 13:34:53,914 - - max batch size: 16
+2025-09-10 13:34:53,914 - - expects BGR: True
+2025-09-10 13:34:53,954 - DeepSort Tracker initialised
+2025-09-10 13:34:53,954 - - max age: 30
+2025-09-10 13:34:53,954 - - appearance threshold: 0.2
+2025-09-10 13:34:53,954 - - nms threshold: OFF
+2025-09-10 13:34:53,954 - - max num of appearance features: None
+2025-09-10 13:34:53,954 - - overriding track class : No
+2025-09-10 13:34:53,954 - - today given : No
+2025-09-10 13:34:53,954 - - in-build embedder : Yes
+2025-09-10 13:34:53,954 - - polygon detections : No
+2025-09-10 13:35:01,299 - Fall detected: Person 0
+2025-09-10 14:38:46,611 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 14:38:46,611 - - gpu enabled: False
+2025-09-10 14:38:46,611 - - half precision: False
+2025-09-10 14:38:46,611 - - max batch size: 16
+2025-09-10 14:38:46,611 - - expects BGR: True
+2025-09-10 14:38:46,646 - DeepSort Tracker initialised
+2025-09-10 14:38:46,646 - - max age: 30
+2025-09-10 14:38:46,646 - - appearance threshold: 0.2
+2025-09-10 14:38:46,646 - - nms threshold: OFF
+2025-09-10 14:38:46,646 - - max num of appearance features: None
+2025-09-10 14:38:46,646 - - overriding track class : No
+2025-09-10 14:38:46,646 - - today given : No
+2025-09-10 14:38:46,646 - - in-build embedder : Yes
+2025-09-10 14:38:46,646 - - polygon detections : No
+2025-09-10 14:39:07,117 - Fall detected: Person 0
+2025-09-10 14:39:13,686 - Fall detected: Person 0
+2025-09-10 14:42:05,574 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 14:42:05,574 - - gpu enabled: False
+2025-09-10 14:42:05,574 - - half precision: False
+2025-09-10 14:42:05,574 - - max batch size: 16
+2025-09-10 14:42:05,574 - - expects BGR: True
+2025-09-10 14:42:05,614 - DeepSort Tracker initialised
+2025-09-10 14:42:05,614 - - max age: 30
+2025-09-10 14:42:05,614 - - appearance threshold: 0.2
+2025-09-10 14:42:05,614 - - nms threshold: OFF
+2025-09-10 14:42:05,614 - - max num of appearance features: None
+2025-09-10 14:42:05,614 - - overriding track class : No
+2025-09-10 14:42:05,614 - - today given : No
+2025-09-10 14:42:05,614 - - in-build embedder : Yes
+2025-09-10 14:42:05,614 - - polygon detections : No
+2025-09-10 14:42:09,081 - Fall detected: Person 0
+2025-09-10 14:45:21,842 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 14:45:21,842 - - gpu enabled: False
+2025-09-10 14:45:21,842 - - half precision: False
+2025-09-10 14:45:21,842 - - max batch size: 16
+2025-09-10 14:45:21,842 - - expects BGR: True
+2025-09-10 14:45:21,869 - DeepSort Tracker initialised
+2025-09-10 14:45:21,869 - - max age: 30
+2025-09-10 14:45:21,869 - - appearance threshold: 0.2
+2025-09-10 14:45:21,869 - - nms threshold: OFF
+2025-09-10 14:45:21,869 - - max num of appearance features: None
+2025-09-10 14:45:21,869 - - overriding track class : No
+2025-09-10 14:45:21,869 - - today given : No
+2025-09-10 14:45:21,869 - - in-build embedder : Yes
+2025-09-10 14:45:21,869 - - polygon detections : No
+2025-09-10 14:45:23,933 - Fall detected: Person 0
+2025-09-10 15:26:48,203 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 15:26:48,203 - - gpu enabled: False
+2025-09-10 15:26:48,203 - - half precision: False
+2025-09-10 15:26:48,203 - - max batch size: 16
+2025-09-10 15:26:48,203 - - expects BGR: True
+2025-09-10 15:26:48,351 - DeepSort Tracker initialised
+2025-09-10 15:26:48,351 - - max age: 30
+2025-09-10 15:26:48,351 - - appearance threshold: 0.2
+2025-09-10 15:26:48,351 - - nms threshold: OFF
+2025-09-10 15:26:48,351 - - max num of appearance features: None
+2025-09-10 15:26:48,351 - - overriding track class : No
+2025-09-10 15:26:48,351 - - today given : No
+2025-09-10 15:26:48,351 - - in-build embedder : Yes
+2025-09-10 15:26:48,351 - - polygon detections : No
+2025-09-10 15:26:49,470 - Fall detected: Person 0
+2025-09-10 15:26:54,210 - Fall detected: Person 0
+2025-09-10 15:27:07,149 - Fall detected: Person 0
+2025-09-10 15:27:09,274 - Fall detected: Person 0
+2025-09-10 15:27:12,570 - Fall detected: Person 0
+2025-09-10 15:27:18,852 - Fall detected: Person 0
+2025-09-10 15:27:21,689 - Fall detected: Person 0
+2025-09-10 15:27:23,464 - Fall detected: Person 0
+2025-09-10 15:27:25,504 - Fall detected: Person 0
+2025-09-10 15:27:29,942 - Fall detected: Person 0
+2025-09-10 15:27:31,079 - Fall detected: Person 0
+2025-09-10 15:35:35,975 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 15:35:35,975 - - gpu enabled: False
+2025-09-10 15:35:35,975 - - half precision: False
+2025-09-10 15:35:35,975 - - max batch size: 16
+2025-09-10 15:35:35,975 - - expects BGR: True
+2025-09-10 15:35:36,030 - DeepSort Tracker initialised
+2025-09-10 15:35:36,030 - - max age: 30
+2025-09-10 15:35:36,030 - - appearance threshold: 0.2
+2025-09-10 15:35:36,030 - - nms threshold: OFF
+2025-09-10 15:35:36,030 - - max num of appearance features: None
+2025-09-10 15:35:36,030 - - overriding track class : No
+2025-09-10 15:35:36,030 - - today given : No
+2025-09-10 15:35:36,030 - - in-build embedder : Yes
+2025-09-10 15:35:36,030 - - polygon detections : No
+2025-09-10 15:35:40,598 - Fall detected: Person 0
+2025-09-10 15:35:56,732 - Fall detected: Person 0
+2025-09-10 15:36:06,236 - Fall detected: Person 0
+2025-09-10 15:36:11,295 - Fall detected: Person 0
+2025-09-10 15:37:28,571 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 15:37:28,573 - - gpu enabled: False
+2025-09-10 15:37:28,573 - - half precision: False
+2025-09-10 15:37:28,573 - - max batch size: 16
+2025-09-10 15:37:28,573 - - expects BGR: True
+2025-09-10 15:37:28,652 - DeepSort Tracker initialised
+2025-09-10 15:37:28,652 - - max age: 30
+2025-09-10 15:37:28,652 - - appearance threshold: 0.2
+2025-09-10 15:37:28,652 - - nms threshold: OFF
+2025-09-10 15:37:28,652 - - max num of appearance features: None
+2025-09-10 15:37:28,652 - - overriding track class : No
+2025-09-10 15:37:28,652 - - today given : No
+2025-09-10 15:37:28,652 - - in-build embedder : Yes
+2025-09-10 15:37:28,656 - - polygon detections : No
+2025-09-10 15:37:38,985 - Fall detected: Person 0
+2025-09-10 15:37:41,637 - Fall detected: Person 0
+2025-09-10 15:43:26,468 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 15:43:26,468 - - gpu enabled: False
+2025-09-10 15:43:26,468 - - half precision: False
+2025-09-10 15:43:26,468 - - max batch size: 16
+2025-09-10 15:43:26,468 - - expects BGR: True
+2025-09-10 15:43:26,518 - DeepSort Tracker initialised
+2025-09-10 15:43:26,518 - - max age: 30
+2025-09-10 15:43:26,518 - - appearance threshold: 0.2
+2025-09-10 15:43:26,518 - - nms threshold: OFF
+2025-09-10 15:43:26,518 - - max num of appearance features: None
+2025-09-10 15:43:26,518 - - overriding track class : No
+2025-09-10 15:43:26,518 - - today given : No
+2025-09-10 15:43:26,518 - - in-build embedder : Yes
+2025-09-10 15:43:26,518 - - polygon detections : No
+2025-09-10 15:43:28,069 - Fall detected: Person 0
+2025-09-10 15:43:31,225 - Fall detected: Person 0
+2025-09-10 15:43:32,097 - Fall detected: Person 0
+2025-09-10 15:43:34,280 - Fall detected: Person 0
+2025-09-10 15:43:35,787 - Fall detected: Person 0
+2025-09-10 15:43:36,386 - Fall detected: Person 0
+2025-09-10 15:43:42,719 - Fall detected: Person 0
+2025-09-10 15:43:44,617 - Fall detected: Person 0
+2025-09-10 15:43:47,949 - Fall detected: Person 0
+2025-09-10 15:44:30,216 - MobileNetV2 Embedder for Deep Sort initialised
+2025-09-10 15:44:30,216 - - gpu enabled: False
+2025-09-10 15:44:30,216 - - half precision: False
+2025-09-10 15:44:30,216 - - max batch size: 16
+2025-09-10 15:44:30,216 - - expects BGR: True
+2025-09-10 15:44:30,271 - DeepSort Tracker initialised
+2025-09-10 15:44:30,271 - - max age: 30
+2025-09-10 15:44:30,271 - - appearance threshold: 0.2
+2025-09-10 15:44:30,271 - - nms threshold: OFF
+2025-09-10 15:44:30,271 - - max num of appearance features: None
+2025-09-10 15:44:30,271 - - overriding track class : No
+2025-09-10 15:44:30,271 - - today given : No
+2025-09-10 15:44:30,271 - - in-build embedder : Yes
+2025-09-10 15:44:30,271 - - polygon detections : No
+2025-09-10 15:44:41,792 - Fall detected: Person 0
+2025-09-10 15:44:45,669 - Fall detected: Person 0

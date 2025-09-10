@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin SOS Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🛡️ Admin SOS Dashboard</h1>
+    
+    <!-- Victim Alert Section -->
+    <div class="alert-box">
+      <h2>🚨 Latest Victim Alert</h2>
+      <p id="victimMessage">Waiting for SOS...</p>
+      <p id="victimLocation"></p>
+      <a id="mapLink" href="#" target="_blank" style="display:none;">🌍 View on Map</a>
+    </div>
+
+    <!-- Volunteers Section -->
+    <div class="volunteers-box">
+      <h2>👥 Volunteers</h2>
+      <div id="volunteer-list"></div>
+      
+      <input id="name" placeholder="Name">
+      <input id="email" placeholder="Email">
+      <input id="lat" placeholder="Latitude">
+      <input id="lon" placeholder="Longitude">
+      <button onclick="addVolunteer(
+        document.getElementById('name').value, 
+        document.getElementById('email').value,
+        document.getElementById('lat').value,
+        document.getElementById('lon').value
+      )">➕ Add Volunteer</button>
+    </div>
+
+    <!-- Forward Button -->
+    <button id="forwardBtn" disabled>📤 Forward Alert to Volunteers</button>
+    
+    <!-- Status Log -->
+    <div id="statusLog"></div>
+  </div>
+
+  <!-- EmailJS SDK -->
+  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
